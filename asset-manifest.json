@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BMachineR/marvel-portal-app/static/css/main.9f22881f.css",
+    "main.js": "/BMachineR/marvel-portal-app/static/js/main.39f8890f.js",
+    "static/media/preloader.gif": "/BMachineR/marvel-portal-app/static/media/preloader.c8c03865e8995e520008.gif",
+    "static/media/Decoration.png": "/BMachineR/marvel-portal-app/static/media/Decoration.4877bd12f637c476f009.png",
+    "static/media/error.gif": "/BMachineR/marvel-portal-app/static/media/error.ced418434d8fe14541c4.gif",
+    "index.html": "/BMachineR/marvel-portal-app/index.html",
+    "main.9f22881f.css.map": "/BMachineR/marvel-portal-app/static/css/main.9f22881f.css.map",
+    "main.39f8890f.js.map": "/BMachineR/marvel-portal-app/static/js/main.39f8890f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f22881f.css",
+    "static/js/main.39f8890f.js"
+  ]
+}
