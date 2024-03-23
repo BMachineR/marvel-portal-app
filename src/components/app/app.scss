@@ -1,0 +1,19 @@
+.app {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1366px;
+
+  .project-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #000;
+    span {
+      color: #9f0013;
+    }
+  }
+}
+.chars-wrapper {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 25px;
+}

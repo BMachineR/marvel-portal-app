@@ -1,0 +1,33 @@
+.char-list {
+  grid-template-columns: 1fr 1fr 1fr;
+  display: grid;
+  grid-auto-rows: minmax(300px, auto);
+  gap: 25px;
+  padding: 20px 0;
+  list-style: none;
+}
+.loadmore-btn {
+  padding: 10px 15px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: none;
+  border-image: linear-gradient(
+      45deg,
+      white 10%,
+      #9f0013 10%,
+      #9f0013 90%,
+      transparent 90%
+    )
+    19 fill / 12px;
+  cursor: pointer;
+}
+.char-list-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
